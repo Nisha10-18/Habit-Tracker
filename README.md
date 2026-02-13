@@ -117,18 +117,35 @@ CORS enabled for cross‑origin requests
 
 Minimal, clean UI for better usability
 
-🎨 UI Wireframe (Basic Structure)
--------------------------------------------------
-| Navbar | Habit Tracker | Logout              |
--------------------------------------------------
+🎨 UI Wireframe & Design Planning Reference
+The UI wireframe for HabitForge – Habit Tracker Web Application is included as a visual design reference.
 
-| Habit Input Field          | + Add Button   |
+It covers:
 
--------------------------------------------------
-| Habit Card                                   |
-| Title: Read Book                             |
-| [Mark Complete]     [Delete]                 |
--------------------------------------------------
+Login Page layout
+
+Register Page structure
+
+Dashboard screen layout
+
+Sidebar navigation design
+
+Stats & habit tracking section placement
+
+The wireframe reflects:
+
+Clear page layout ideas
+
+Structured screen hierarchy
+
+Logical user journey flow (Authentication → Dashboard → Habit Management)
+
+Sidebar-based navigation system
+
+📎 Wireframe Reference (Google Drive Link):
+https://drive.google.com/file/d/1v7rjHv0yfb6Uwf556FSUVbXfpfCnkv_3/view?usp=sharing
+
+This wireframe focuses on usability, simplicity, and structured screen planning rather than visual styling perfection.
 🚀 Key Learning Outcomes
 Full‑stack MERN architecture
 
